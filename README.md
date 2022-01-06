@@ -16,4 +16,5 @@ My discord:
 <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/html5.svg" style="max-width: 100%;"><img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg" style="max-width: 100%;"><img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/npm.svg" style="max-width: 100%;"><img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/windows.svg" style="max-width: 100%;"><img align="left" alt="node.js" width="26px" src="https://camo.githubusercontent.com/973a118e690e810599bc0b9b3fcec3a314505b412e307e5eab8ff8a2211ddc14/68747470733a2f2f692e696d6775722e636f6d2f74594c465a42682e706e67" data-canonical-src="https://i.imgur.com/tYLFZBh.png" style="max-width: 100%;">
 ### Social
 - [Patreon](https://patreon.com/rebootdiscord)
-- [Top.gg]
+- [Replit](https://replit.com/@kirigizakazutov)
+
