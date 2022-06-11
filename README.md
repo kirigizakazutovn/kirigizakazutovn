@@ -1,6 +1,6 @@
 
 - 😂 Coming Soon™
-
+<!DOCTYPE HTML>
 <html>
 <head>
 	<script>
