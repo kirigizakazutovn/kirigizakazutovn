@@ -7,3 +7,4 @@
 - 🌐 Reddit: <a href="https://reddit.com/u/TechHasNoLimits">u/TechHasNoLimits</a>
 - 🌐 Discord: <a href="https://discord.com/users/784729115680964618">TechHasNoLimits#5890</a>
 - 🗄️ Youtube: <a href="https://youtube.com/channel/UC-Gcg8Aqph8pyrREYYGuAAg">TechHasNoLimits</a> and <a href="https://www.youtube.com/channel/UCEUTghOW8baXQ5P-spg2UpQ">TechHasNoLimits Extra</a>
+- 💼 Email: <a href="mailto:nghuyhieu@mail.folody.xyz">nghuyhieu@mail.folody.xyz</a>
